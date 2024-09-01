@@ -43,7 +43,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.24.7",
+    "@babel/plugin-transform-private-property-in-object": "^7.24.7",
     "@svgr/core": "^8.1.0",
     "@svgr/plugin-jsx": "^8.1.0",
     "@vitejs/plugin-react": "^4.3.1",
